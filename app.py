@@ -11,7 +11,7 @@ from sklearn.metrics import ConfusionMatrixDisplay, RocCurveDisplay, PrecisionRe
 from sklearn.metrics import precision_score, recall_score
 
 def main():
-    st.title("Binary Classification Web App by Dandan Dumalaog pogi")
+    st.title("Binary Classification Web App by Crizepvill "Dandan" Dumalaog")
     st.sidebar.title("Binary Classification Web App")
     st.markdown("Are your mushrooms edible or poisonous? 🍄")
     st.sidebar.markdown("Are your mushrooms edible or poisonous? 🍄")
